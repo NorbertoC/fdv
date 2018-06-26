@@ -1,0 +1,6 @@
+export const FETCH_PLAYERS = 'FETCH_PLAYERS';
+export const POSITION_SELECTED = 'POSITION_SELECTED';
+export const SEARCH_PLAYER = 'SEARCH_PLAYER';
+export const SEARCH_AGE = 'SEARCH_AGE';
+export const FILTER_PLAYERS = 'FILTER_PLAYERS';
+export const CLEAR_FIELDS = 'CLEAR_FIELDS';

@@ -1,0 +1,15 @@
+.table-container {
+    margin: 60px;
+    align-content: center;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.input-width {
+    min-width: 50px;
+}
